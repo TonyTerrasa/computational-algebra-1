@@ -1,4 +1,4 @@
-# Computational Algebra IA course for teaching Algebra I with programing
+# Computational Algebra I
 _Computational Algebra I_ is a course for teaching Algebra I using Python programming to explore applications of the math concepts. 
 
 This repo includes the base materials necessary to teach the class.
