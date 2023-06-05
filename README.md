@@ -5,8 +5,9 @@ This repo includes the base materials necessary to teach the class.
 
 ## Getting started
 
-To get started, you can click the "Code" button above and "Download ZIP" (if you are familiar with git, you can also clone the repository). This will download all of the materials for the course, including the curriculum design which I wrote at my Masters thesis.
+To get started, you can  review [the curruculum](./Curriculum/ComputationalAlgebra.pdf) which I wrote as my masters thesis. 
 
+Next, you can click the "Code" button above and "Download ZIP" (if you are familiar with git, you can also clone the repository). This will download all of the materials for the course.
 
 
 ## Materials List
