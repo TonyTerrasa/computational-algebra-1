@@ -3,7 +3,14 @@ _Computational Algebra I_ is a course for teaching Algebra I using Python progra
 
 This repo includes the base materials necessary to teach the class.
 
-Materials including:
+## Getting started
+
+To get started, you can click the "Code" button above and "Download ZIP" (if you are familiar with git, you can also clone the repository). This will download all of the materials for the course, including the curriculum design which I wrote at my Masters thesis.
+
+
+
+## Materials List
+All the materials can be found in the `Computational Algebra Materials` folder. Anything in pdf form is also available in docx form. 
 <ul>
     <li>7 Math Quizzes and Solutions
         <ul>
