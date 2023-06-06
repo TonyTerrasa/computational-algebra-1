@@ -1,7 +1,10 @@
 # Computational Algebra I
-_Computational Algebra I_ is a course for teaching Algebra I using Python programming to explore applications of the math concepts. 
+_Computational Algebra I_ is a course for teaching Algebra I using Python programming to explore applications of the math concepts. This repo includes the base materials necessary to teach the class.
 
-This repo includes the base materials necessary to teach the class.
+
+## Abstract
+
+_Computational Algebra I_ teaches Algebra I while providing students with a foundation in computer programming. As students learn about the typical Algebra I mathematical concepts, they will apply their knowledge by solving real-world problems with programming. The curriculum is designed to align with the state of Maryland Algebra I standards and closely follows the Illustrative Mathematics curriculum. As such, the course is targeted towards mixed-grade or single-grade classes with students years 7th and 9th grade for an entire academic term of 180 school days. The curriculum design uniquely uses programming as one of the primary methods for solving problems related to math concepts, which has become an essential and ubiquitous tool in modern science technology engineering and math (STEM) fields, including biology, astronomy, and geology. The course uses the Python language as it is the most common programming language used in scientific programming. By using programming in the Algebra I course, students will develop essential skills in applied math, programming, critical thinking, and problem solving that they can use throughout their high school math and professional careers.
 
 ## Getting started
 
